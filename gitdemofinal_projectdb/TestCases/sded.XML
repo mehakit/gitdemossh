@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<TC TCId="317b9687153e437491dede489577f217" ManualTCId="sded" TCName="sded" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <IsHPQCLinked>False</IsHPQCLinked>
+  <WF>
+    <Task Name="ecd" Desc="ecd" TaskSeq="1" ID="fb1c87f5c5e94c8192e143847d30cb61" UpdateTS="5/23/2019 12:12:29 PM" FileName="ecd.XML" IsSystemTask="False" OnError="Continue" Comment="" isCommented="False">
+    </Task>
+    <Task Name="taskgitdemo" Desc="taskgitdemo" TaskSeq="2" ID="ef73e9e1328d4e828aadbbdff5fc388d" UpdateTS="5/23/2019 12:18:37 PM" FileName="taskgitdemo.XML" IsSystemTask="False" OnError="Continue" isCommented="False">
+    </Task>
+  </WF>
+  <Data>
+    <TCDataSet Iteration="1" Mark="True" TCDataSetTag="">
+    </TCDataSet>
+  </Data>
+</TC>
